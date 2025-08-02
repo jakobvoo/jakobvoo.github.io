@@ -11,7 +11,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://linkedin.com/in/jakobvoo/
     - icon: github
       text: Github
-      href: https://github.com/jakobvtv
+      href: https://github.com/jakobvoo
 
 title-block-banner: true
 code-annotations: hover
