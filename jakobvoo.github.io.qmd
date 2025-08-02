@@ -1,11 +1,26 @@
 ---
-title: "jakobvoo.github.io"
+title: "Jakob Voo"
+subtitle: "Just a data chimaera, with a heart for humanity"
+image: featureless-cartoonised-face.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/jakobvoo/
+    - icon: github
+      text: Github
+      href: https://github.com/jakobvtv
+
+title-block-banner: true
+code-annotations: hover
 ---
 
-## Quarto
+### Part technical 👨🏻‍💻 + Part creative 👨🏻‍🎨 + Part strategic 👨🏻‍🚀
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+I use data to fix systems that don't work for everyone and shape policies that reflect the messy, diverse, beautiful realities of human lives.
 
-```{r}
-1 + 1
-```
+Whether I am working in government, consulting, or research, I thrive at the intersection of curiosity, rigour, and purpose. I lead multidisciplinary teams, build decision tools, and solve wicked problems by connecting dots across disciplines and sectors. I am big on inclusive design, visual metaphors, and working with people who care as deeply as I do.
+
+And yes, I still find time for boxing, mentoring, and the occasional data memes!

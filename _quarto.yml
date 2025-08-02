@@ -1,5 +1,38 @@
 project:
-  title: "jakobvoo.github.io"
+  type: website
+  output-dir: _site
 
+execute:
+  freeze: true
 
+website:
+  title: "Jakob Voo"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "© 2025 Jakob Voo · CC BY 4.0 (content) · MIT (code)"
+  navbar:
+    title: Jakob Voo
+    tools:
+      - icon: linkedin
+        href: https://linkedin.com/in/jakobvoo/
+      - icon: github
+        href: https://github.com/jakobvtv
 
+# Theme Settings -----------------------------------------------------------------------------------
+format:
+  html:
+  # https://daveyandkrista.com/trending-color-palettes-for-websites/#17-fresh-color-palettes-for-your-website-in-2024:~:text=ITALIAN%20COUNTRYSIDE%20COLOR%20PALETTE
+
+    title-block-banner-color: "#3A3F5F" # "#6B0C04"
+
+    backgroundcolor: "#E7E6E3"
+    fontcolor: "#33312E"
+    linkcolor: "#6B0C04"
+
+    code-block-border-left: true
+    # code-fold: true
+    # code-tools: true
+    code-copy: hover
+
+    highlight-style: oblivion
+
+    theme: [cosmo, styles.scss]
