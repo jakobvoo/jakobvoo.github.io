@@ -1,4 +1,4 @@
-# Personal Website of Jakob Voo.
+# Personal Website of Jakob Voo
 
 Just a data scientist, systems thinker, and servant leader using data for social good.
 
