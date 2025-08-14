@@ -1,0 +1,52 @@
+---
+title: "Gender pay gap in Australian health workforce"
+author: "Jakob Voo"
+date: "11 August 2025"
+toc: true
+format:
+  html:
+    html-math-method: katex
+    code-tools: true
+    self-contained: true
+execute:
+  warning: false
+---
+
+
+# Gender pay gap among health workforce is important yet complex
+- Health systems can only function with health workers.
+- A large % of the health workforce is female (i.e., XXX%)
+- Note that a significant number of health workers works non-standard hours (i.e., part-time, roster, multiple jobs, etc.. (hard to factor)
+- Nonetheless, remuneration is one of the most important factors, for it to be a way to recognise our health workers.
+- How does Australia perform in gender pay gap in health workforce across disciplines???
+
+
+# Gender pay gap maong health professionals is large, comparatively
+- Among professionals, health professionals ranks 3rd + large outliers
+- Comparatively, no big difference from 10-year - what does that mean???
+
+* Treating each occupation equally...
+* Hypothesis 1: Comparatively, paygap is heavily impacted by age group. Health workforce takes longer to be fully trained and employed. And that reflects
+* Hypothesis 2: Comparetively, paygap is heavily impacted by CALD status.
+
+# Medical professionals is the most severe
+
+# Nursing and midwifery is next
+
+# Allied health professional is next
+
+
+
+
+# Technical corner
+## This metric is a good starting point, but we need more to fully understand the pay gap
+## Annualised calculation might not work well for health professionals (non-standard, unexpected hours is hard to annualised)
+## OSCA is better for health workforce
+
+
+
+
+```{r}
+
+
+```
